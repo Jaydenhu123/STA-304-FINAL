@@ -8,6 +8,7 @@ abstract: |
   | **Keywords:**  covid-19; mortality rate; GAM poisson family;
 output:
   bookdown::pdf_document2:
+linestretch: 1.5
 toc: FALSE
 ---
 
@@ -270,3 +271,5 @@ for the years 2018 to 2020 are given. But what ever, we should not blame young p
 7. Jeffrey B. Arnold (2019). ggthemes: Extra Themes, Scales and Geoms for 'ggplot2'. R package
   version 4.2.0. https://CRAN.R-project.org/package=ggthemes
 
+8. R Core Team (2019). R: A language and environment for statistical computing. R Foundation for
+  Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
