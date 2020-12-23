@@ -22,7 +22,7 @@ In the year 2020, the most important event is the covid-19 event. Lots of peple 
 
 The USA government official claimed that the young people  who are not want to stay at home but go outside unrestrictl should be response for the wave of covid-19 that covid-10 mainly affects young people including college students than old people. And in this study, the old age group of people refers to be the people with age 70 years old and over, the young age group of people  refers to be the people with age under 50 years old which is 0-49 years old. So  this study aims to investigate whether the number of deaths of the old age people group is much higher than the historical average for people under 50 years old as well as of the people 70 years old and over.  
 
-The followding study is organized as belows that, the methodology would first decribes the data used in the study and the model used in the study in details.Then results would be shown based on the data and the model used. At last, we dicuss the results in the dicussion section. 
+The followding study is organized as belows that, the methodology would first decribes the data used in the study and the model used in the study in details.Then results would be shown based on the data and the model used. At last, we dicuss the results in the dicussion section. The link to the paper is: https://github.com/Jaydenhu123/STA-304-FINAL.
 
  
  
